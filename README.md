@@ -1,3 +1,3 @@
-# buunnp.github.io -- a [blog] (https://buunnp.github.io/blog)
+# buunnp.github.io -- a [blog](https://buunnp.github.io/blog)
 
 coming soon...
